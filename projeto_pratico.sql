@@ -36,7 +36,7 @@ INSERT INTO PINTURA VALUES
 (101, 'O Grito', 'Edward Munch', 1893, 1),
 (102, 'Mona Lisa', 'Leonardo da Vinci', 1503, 2),
 (103, 'O Nascimento de Vênus', 'Sandro Botticelli', 1485, 3),
-(104, 'Autorretrato com Chapéu de Feltro Cinza', 1887, 4);
+(104, 'Autorretrato com Chapéu de Feltro Cinza', 'Vincent van Gogh', 1887, 4);
 
 INSERT INTO PROJETO VALUES
 (1001, '2024-12-25', 'Concluído', 101),
